@@ -1,4 +1,0 @@
-paytheybisdoe
-=============
-
-first repository
